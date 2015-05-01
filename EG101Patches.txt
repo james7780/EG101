@@ -1,0 +1,363 @@
+#Category,PC,CC00,Name
+
+Allow up to 20 patches in a screen
+
+Synth 1 :
+Synth,1,64,Lead TB1
+Synth,1,65,Lead TB2
+Synth,1,66,Wow TB
+Synth,1,67,Lead TB3
+Synth,2,64,MG Saw
+Synth,2,65,Voc Saw
+Synth,2,66,Cheese Saw
+Synth,2,67,Saw Lead
+Synth,2,68,Calc Saw
+Synth,2,69,OB2 Saw 1
+Synth,2,70,Juno6 Saw
+Synth,2,71,JP8 Pls.1
+Synth,2,72,MG Pls.1
+Synth,2,73,Flicker Pls
+Synth,3,64,Tri Lead 1
+Synth,3,65,Tri Lead 2
+Synth,3,66,PR5 Squ.1
+Synth,4,64,JU2 SubOsc
+Synth,4,65,Frog Wawe
+Synth,5,64,Seq.Synth
+
+Synth 2:
+Synth,5,65,Polysynth
+Synth,5,66,JP8 Pls.2
+Synth,5,67,JP8 Squ
+Synth,5,68,260 Pls.90
+Synth,5,69,Reso Pls
+Synth,5,70,Reso Stack
+Synth,6,64,Soft Lead
+Synth,6,65,8DV Saw 1
+Synth,6,66,PR5 Saw 1
+Synth,6,67,D50 Saw
+Synth,7,64,MG Sweep
+Synth,7,65,Sweep Lead
+Synth,7,66,Vocoderman
+Synth,8,64,4th Lead 1
+Synth,8,65,4th Lead 2
+
+Synth Bass 1:
+Synth Bass,9,64,Normal TB
+Synth Bass,9,65,Dist TB 1
+Synth Bass,9,66,Dist TB 2
+Synth Bass,9,67,Acid TB 1
+Synth Bass,9,68,Acid TB 2
+Synth Bass,9,69,Acid TB 3
+Synth Bass,9,70,Acid TB 4
+Synth Bass,10,64,101 Bass 1
+Synth Bass,10,65,101 Bass 2
+Synth Bass,10,66,101 Bass 3
+Synth Bass,10,67,House Bass
+Synth Bass,10,68,Sine Bass
+Synth Bass,10,69,Dub Bass
+Synth Bass,11,64,Pizz Bass
+Synth Bass,12,64,MG Bass 1
+Synth Bass,12,65,MG Bass 2
+Synth Bass,12,66,MG Bass 3
+Synth Bass,12,67,MG Bass 4
+Synth Bass,12,68,FM Super Bass
+Synth Bass,12,69,Cheese Bass
+
+Synth Bass 2:
+Synth Bass,12,70,Syn SB Bass
+Synth Bass,13,64,Blip Bass
+Synth Bass,13,65,KGP Bass
+Synth Bass,13,66,TBMG Bass 1
+Synth Bass,13,67,MG Bass 5
+Synth Bass,13,68,JPMG Bass
+Synth Bass,13,69,Click Bass
+Synth Bass,13,70,KMP Bass
+Synth Bass,13,71,Osc.Bass
+Synth Bass,14,64,Reso Bass
+Synth Bass,14,65,Wow MG Bass
+Synth Bass,14,66,Wow 101 Bass
+Synth Bass,14,67,SweepWowBass
+Synth Bass,14,68,MG 5th Bass
+Synth Bass,14,69,Doom Bass
+Synth Bass,14,70,Rubber Bass 1
+Synth Bass,14,71,Rubber Bass 2
+Synth Bass,15,64,Acid Bass
+Synth Bass,15,65,Bubble Bass
+Synth Bass,16,64,Organ Bass
+
+Bass:
+Bass,17,64,Ac Bass 1
+Bass,17,65,Ac Bass 2
+Bass,18,64,Fingered Bass 1
+Bass,18,65,Fingered Bass 2
+Bass,19,64,Picked Bass 1
+Bass,19,65,Dust Pick Bass
+Bass,19,66,Picked Bass 2
+Bass,20,64,Fretless Bass
+Bass,21,64,Slap Bass 1
+
+Synth Stack:
+Synth Stack,22,64,Syn Stack 1
+Synth Stack,22,65,Oct Stack
+Synth Stack,22,66,Syn Stack 2
+Synth Stack,22,67,Saw Stack
+Synth Stack,23,64,Syn SB 1
+Synth Stack,23,65,Syn SB 2
+Synth Stack,23,66,Brass Perc
+Synth Stack,23,67,Dirty SB
+
+Pad 1:
+Synth Pad,24,64,Atmosphere
+Synth Pad,24,65,FeedBackWave
+Synth Pad,24,66,X-MOD
+Synth Pad,24,67,Pacifica
+Synth Pad,24,68,7th Atom
+Synth Pad,24,69,Outer Space
+Synth Pad,24,70,Rev Atom
+Synth Pad,25,64,2.2 Pad
+Synth Pad,25,65,Jungle Pad
+Synth Pad,25,66,Psycho Pad
+Synth Pad,25,67,Pipe Pad
+Synth Pad,25,68,Ambient Pad
+Synth Pad,25,69,Flanger Pad
+Synth Pad,26,64,Bell Pad
+Synth Pad,26,65,7th Bell Pad
+Synth Pad,26,66,Fantasia
+Synth Pad,26,67,Crystal
+Synth Pad,26,68,Exo Bell Pad
+Synth Pad,26,69,Echo Bell
+Synth Pad,27,64,Warm Pad
+
+Pad 2:
+Synth Pad,27,65,Soundtrack
+Synth Pad,27,66,Oct Pad
+Synth Pad,27,67,OB Str Pad
+Synth Pad,27,68,X-MOD Pad
+Synth Pad,27,69,Sweep Pad 1
+Synth Pad,27,70,Sweep Pad 2
+Synth Pad,27,71,OB Soft Pad
+Synth Pad,27,72,Goblin
+Synth Pad,27,73,Echo Drops
+Synth Pad,28,64,Random Pad
+Synth Pad,28,65,LFO Sweep
+Synth Pad,28,66,Horror Pad
+Synth Pad,28,67,Pulse Key Pad
+
+Strings:
+Strings,29,64,Real Strings 1
+Strings,29,65,Real Strings 2
+Strings,30,64,Auh Strings
+Strings,30,65,Hi Strings
+Strings,30,66,Syn Strings 1
+Strings,30,67,Syn Strings 2
+Strings,30,68,Syn Strings 3
+Strings,31,64,Noise Strings
+Strings,31,65,RND Strings
+Strings,31,66,LFO Strings
+Strings,32,64,Slow Strings
+Strings,32,65,Slow Syn Strings
+Strings,33,64,Pizzicato Strings
+
+Voice:
+Voice,34,64,Choir Auhs
+Voice,35,64,Space voice
+Voice,35,65,Sweepvox
+Voice,35,66,Synthvox 1
+Voice,35,67,Auh
+Voice,35,68,Synthvox 2
+Voice,35,69,Leadvox
+Voice,35,70,Auh Auh
+Voice,35,71,Sky Vox
+Voice,35,72,Auhbient
+Voice,35,73,Vibravox
+Voice,35,74,Noisevox
+
+SFX:
+SFX,36,64,UFO SFX
+SFX,36,65,Saw in Saw
+SFX,36,66,Feed Bell
+SFX,36,67,Abduction
+SFX,36,68,Loop Sweep
+SFX,36,69,UP FX
+SFX,36,70,Rodocorder
+SFX,36,71,Noise Grow
+SFX,37,64,LFO Techno
+SFX,37,65,Calculating
+SFX,37,66,Emergency!
+SFX,37,67,FX Beats
+SFX,37,68,Analog FX
+SFX,37,69,Transformer
+SFX,37,70,Dusty Scratch
+SFX,37,71,Space Worms
+SFX,37,72,Winky FX
+
+Noise:
+Noise,38,64,PR5 Noise 1
+Noise,38,65,PR5 Noise 2
+Noise,38,66,Pink Noise
+Noise,38,67,White Noise
+Noise,39,64,Bomb Wind
+Noise,39,65,Syn Wind
+Noise,39,66,Vinyl Noise
+Noise,39,67,Noise Snare
+Noise,40,64,Explosion
+Noise,40,65,Pink Bomb
+
+Piano:
+Piano,41,64,Ac Piano
+Piano,41,65,Bright Piano
+Piano,42,64,E. Piano 1
+Piano,42,65,E. Piano 2
+Piano,42,66,E. Piano 3
+Piano,42,67,E. Piano 4
+Piano,43,64,Org.E.Piano
+Piano,43,65,Noise Piano 
+Piano,44,64,Clavichord
+Piano,44,65,Analog Clav
+Piano,44,66,Digi Clav
+
+Organ:
+Organ,45,64,Organ 1
+Organ,45,65,Lp-Ho Organ
+Organ,46,64,Organ 2
+Organ,46,65,Perc Organ
+Organ,47,64,Slow organ
+Organ,48,64,SmokeyOrg.Chrd
+Organ,48,65,Organ Chord
+Organ,49,64,60's Organ
+Organ,50,64,Dist Organ
+Organ,51,64,Church Organ 1
+Organ,52,64,Organ Loop
+Organ,52,65,LF-Organ
+
+Choir P:
+Choir Percussion,53,64,Glockenspiel
+Choir Percussion,53,65,Vibraphone
+Choir Percussion,53,66,Beat glocken
+Choir Percussion,53,67,Marimba
+Choir Percussion,54,64,Timpani
+Choir Percussion,54,65,Steel drums
+Choir Percussion,55,64,Sqr perc
+Choir Percussion,55,65,juno bell
+Choir Percussion,55,66,mg perc
+Choir Percussion,55,67,perc glass
+Choir Percussion,56,64,tubular bell
+Choir Percussion,56,65,vib bell
+Choir Percussion,57,64,7th bells
+Choir Percussion,57,65,ring bell
+Choir Percussion,57,66,digi bell 1
+Choir Percussion,57,67,ring mod
+Choir Percussion,57,68,digi bell 2
+Choir Percussion,57,69,dirty bell 1
+Choir Percussion,57,70,dirty bell 2
+Choir Percussion,57,71,digi bell 3
+
+Guitar:
+Guitar,58,64,Steel Str Guitar
+Guitar,58,65,12 Str Guitar
+Guitar,59,64,Jazz Guitar
+Guitar,59,65,Clean Guitar
+Guitar,59,66,Dist Guitar
+Guitar,59,67,Gt. Harmonics
+Guitar,60,64,Acid Guitar 1
+Guitar,60,65,Acid Guitar 2
+Guitar,60,66,Jazz Steel Guitar
+Guitar,60,67,Sitar Guitar
+Guitar,60,68,Wah Guitar
+
+Wind 1:
+Wind,62,64,Brass 1
+Wind,62,65,Bright Brass 1
+Wind,62,66,Bright Brass 2
+Wind,63,64,Brass + Strings
+Wind,63,65,SB Brass Sect
+Wind,63,66,ST Brass Sect
+Wind,64,64,OB Brass
+Wind,64,65,Hybrid Brass
+Wind,65,64,4th Brass
+Wind,66,64,Synth Brass 1
+Wind,66,65,Synth Brass 2
+Wind,66,66,Bright Syn.Brs.1
+Wind,66,67,Bright Syn.Brs.2
+Wind,66,68,Warm Brass 1
+Wind,66,69,Stack Brass
+Wind,66,70,Warm Brass 2
+Wind,66,71,Strings Brass
+Wind,66,72,Warm Brass 3
+Wind,66,73,Stack Brass 2
+
+Wind 2:
+Wind,67,64,Trumpet
+Wind,67,65,Muted Trumpet
+Wind,67,66,Sax + Trumpet
+Wind,68,64,Alto Sax
+Wind,68,65,Baritone Sax
+Wind,68,66,Bright Sax
+Wind,69,64,Flute
+Wind,70,64,Pan Flute
+Wind,70,65,Afro Flute
+Wind,70,66,Pipe Lead 1
+Wind,70,67,Pipe Lead 2
+Wind,71,64,Shakuhachi
+
+Ethnic:
+Ethnic,72,64,Sitar 1
+Ethnic,72,65,Sitar 2
+Ethnic,73,64,Kalimba
+Ethnic,74,64,Bagpipe
+Ethnic,76,64,MG Blip 1
+Ethnic,76,65,Rev Blip
+Ethnic,76,66,MG Blip 2
+Ethnic,76,67,Syn Perc
+Ethnic,76,68,Powa
+Ethnic,76,69,Douby
+Ethnic,76,70,P-Mod Perc
+
+Hit:
+Hit,77,64,Bam Hit
+Hit,77,65,Bit Hit
+Hit,77,66,Orch Hit
+Hit,77,67,BF Hit
+Hit,77,68,Organ Hit
+Hit,77,69,Bim Hit
+Hit,77,70,Dist Hit
+Hit,77,71,Brass Fall
+Hit,77,72,Strings Hit
+Hit,77,73,Space Frog
+Hit,78,64,Hoo!
+Hit,78,65,Ha!
+Hit,78,66,Afro Feet
+Hit,78,67,Breath 3
+
+SFX 2:
+SFX2,79,64,Scratch Rewind
+SFX2,79,65,Scratch Push
+SFX2,79,66,Scratch Pull
+SFX2,80,64,Tape Rewind
+SFX2,80,65,Vinyl Stop
+SFX2,81,64,Starship
+SFX2,81,65,Burst Noise
+SFX2,81,66,Laser-gun
+SFX2,82,64,Seashore
+SFX2,82,65,Rain
+SFX2,82,66,Thunder
+SFX2,82,67,Wind
+SFX2,82,68,Stream
+SFX2,82,69,Bubble
+SFX2,83,64,Bird
+SFX2,83,65,Low Bird
+
+SFX 3:
+SFX2,84,64,Telephone
+SFX2,84,65,Gun Shot
+SFX2,84,66,Machine-gun
+SFX2,85,64,Car Pass
+SFX2,85,65,Car Crash
+SFX2,85,66,Siren
+SFX2,85,67,Jet Plane
+SFX2,85,68,Helicopter
+SFX2,86,64,Laughing
+SFX2,86,65,Screaming
+SFX2,86,66,Punch
+SFX2,86,67,Heart Beat
+SFX2,86,68,Applause
