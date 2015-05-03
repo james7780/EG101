@@ -32,7 +32,9 @@ typedef struct {
   byte pc;
 } PATCHINFO;
 
-PROGMEM PATCHINFO patchInfo[440] = {
+// JH 2015-05-03 - Updated for Arduino 1.6.0
+//PROGMEM PATCHINFO patchInfo[440] = {
+const PATCHINFO PROGMEM patchInfo[440] = {
   { "Lead TB1", 64, 1 },          // "Synth 1" patches
   { "Lead TB2", 65, 1 },
   { "Lead TB3", 67, 1 },
